@@ -2,6 +2,13 @@
 
 An iOS app for browsing top-performing stocks across 12 countries. Select a country, see its market index performance, and view the top 10 stocks ranked by 12-month returns with sector breakdowns.
 
+## Screenshots
+
+<p align="center">
+  <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-02-25%20at%2010.54.57.png" width="200" alt="Country Selection">
+  <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-02-25%20at%2010.55.00.png" width="200" alt="Stock Rankings">
+</p>
+
 ## Features
 
 - **12 Countries** - United States, United Kingdom, Germany, France, Japan, China, India, Canada, Australia, South Korea, Brazil, Switzerland
