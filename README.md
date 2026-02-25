@@ -66,4 +66,4 @@ The app uses **mock data** with realistic stock tickers, company names, sectors,
 
 ## License
 
-MIT
+All Rights Reserved. See [LICENSE](LICENSE) for details.
